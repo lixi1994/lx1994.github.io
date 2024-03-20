@@ -1,0 +1,32 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="teaching-section">
+    <div class="course-entry">
+      <p class="course-description">
+        {% if post.start_year and post.end_year %}
+          {{ post.start_year }} {{ post.start_term }} - {{ post.end_year }} {{ post.end_term }}:
+        {% elsif post.year and post.term %}
+          {{ post.year }} {{ post.term }}:
+        {% endif %}
+        <strong>{{ post.name }}</strong>, 
+        {{ post.institute }}, 
+        {{ post.role }}.
+      </p>
+    </div>
+</div>
+
+
+
+
