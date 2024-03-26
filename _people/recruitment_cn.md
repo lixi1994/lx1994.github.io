@@ -1,6 +1,6 @@
 ---
 layout: archive  # Or any other layout
-title: 学生招聘  # Optional
+title: 招生  # Optional
 permalink: /people/recruitment_cn/  # Custom permalink
 author_profile: true
 ---
@@ -12,14 +12,14 @@ author_profile: true
 * Equitable participation and collaborative learning in foundation model integrated machine learning frameworks.
 * Robustness and fairness in multi-agent systems
 
-Xi Li (李溪)目前就读于宾夕法尼亚州立大学计算机科学与工程系，预计将于7月博士毕业。在她的博士学习期间，她的论文被AAAI、ICCV、ICASSP、TKDE等会议和期刊接收。她于2018年获得宾州州立大学计算机科学与工程系的硕士学位，2016年获得中国东南大学（南京）信息工程系的工学学士学位。
+Xi Li (李溪)目前就读于宾夕法尼亚州立大学计算机科学与工程系，将于7月博士毕业。在她的博士学习期间，她的论文被AAAI、ICCV、ICASSP、TKDE等会议和期刊接收。她于2018年获得宾州州立大学计算机科学与工程系的硕士学位，2016年获得中国东南大学（南京）信息工程系的工学学士学位。
 
 ## Requirements
 
 * 对科研有热情并对trustworthy AI 和 machine learning等领域有浓厚兴趣。
 * 拥有计算机科学（CS）、电气工程（EE）、数据科学（DS）、统计学（Stats）或其他相关STEM领域的学士或硕士学位。
 * 熟练掌握一门编程语言，如Python。
-* 英语写作和口语流利。（参见[UAB英语要求](https://www.uab.edu/gradadmissions/apply/international-applicants)）
+* 英语写作和口语流利。（参考[UAB英语要求](https://www.uab.edu/gradadmissions/apply/international-applicants)）
 * 有毅力和责任感，能够克服科研中的困难；有良好的沟通技能，能够与导师定期、清晰地沟通任何科研困难或问题。
 * 有科研经验者优先，但非必须。
 
