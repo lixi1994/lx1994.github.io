@@ -25,7 +25,8 @@ author:
   avatar           : "XiLi_bio.JPG" # "profile.png"
   name             : "Xi Li"
   pronouns         : "she/her/hers"  
-  bio              : "Ph.D. Candidate,\nDepartment of Computer Science and Engineering,\nThe Pennsylvania State University"
+  # bio              : "Ph.D. Candidate,\nDepartment of Computer Science and Engineering,\nThe Pennsylvania State University"
+  bio              : "Ph.D. Candidate@Penn State CSE"
   location         : "State College"
   employer         : # "The Pennsylvania State University"
   uri              : # URL
