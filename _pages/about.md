@@ -27,8 +27,7 @@ I am looking for highly motivated PhD students and interns. Interested candidate
 <span style="color: red;">
 [Join us]:
 </span>
-(1) Complete the [UAB online application](https://cloud.reach.uab.edu/graduate-application){:target="_blank"} (not required for interns); (2) complete the required [application form](https://docs.google.com/forms/d/e/1FAIpQLSfGtj94hbRxiWA-txzr-3LTNeGBt3xZOkX3vlwXLwT9AiCCTA/viewform?usp=sf_link){:target="_blank"}; (3) send [an email](mailto:xili.cs.psu@gmail.com) to me with your resume and transcripts.
-
+(1) Complete the [UAB online application](https://cloud.reach.uab.edu/graduate-application){:target="_blank"} (not required for interns); (2) Complete the required [application form](https://docs.google.com/forms/d/e/1FAIpQLSfGtj94hbRxiWA-txzr-3LTNeGBt3xZOkX3vlwXLwT9AiCCTA/viewform?usp=sf_link){:target="_blank"}; (3) Send [an email](mailto:xili.recruitment@gmail.com) with the subject "[PhD/Research Intern Application]" including your resume and transcripts.
 
 ## Research Interest and Vision
 <!-- ====== -->

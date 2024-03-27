@@ -19,7 +19,7 @@ Xi Li (李溪)目前就读于宾夕法尼亚州立大学计算机科学与工程
 * 对科研有热情并对trustworthy AI 和 machine learning等领域有浓厚兴趣。
 * 拥有计算机科学（CS）、电气工程（EE）、数据科学（DS）、统计学（Stats）或其他相关STEM领域的学士或硕士学位。
 * 熟练掌握一门编程语言，如Python。
-* 英语写作和口语流利。（参考[UAB英语要求](https://www.uab.edu/gradadmissions/apply/international-applicants)）
+* 英语写作和口语流利。（参考[UAB英语要求](https://www.uab.edu/gradadmissions/apply/international-applicants){:target="_blank"}）
 * 有毅力和责任感，能够克服科研中的困难；有良好的沟通技能，能够与导师定期、清晰地沟通任何科研困难或问题。
 * 有科研经验者优先，但非必须。
 
@@ -36,4 +36,4 @@ Xi Li (李溪)目前就读于宾夕法尼亚州立大学计算机科学与工程
 ## Join us
 * 完成[UAB博士项目申请](https://cloud.reach.uab.edu/graduate-application){:target="_blank"} (实习生无需申请); 
 * 完成所需要的[申请表](https://docs.google.com/forms/d/e/1FAIpQLSfGtj94hbRxiWA-txzr-3LTNeGBt3xZOkX3vlwXLwT9AiCCTA/viewform?usp=sf_link){:target="_blank"}; 
-* 通过[电子邮件](mailto:xili.cs.psu@gmail.com)发送你的简历和成绩单。
+* 通过[电子邮件](mailto:xili.recruitment@gmail.com)发送你的简历和成绩单，邮件标题[PhD/Research Intern Application]。

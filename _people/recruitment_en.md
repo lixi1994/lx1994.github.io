@@ -17,7 +17,7 @@ Xi Li is currently a PhD candidate in the Department of Computer Science and Eng
 * Highly motivated students with a keen interest in research related to trustworthy AI and machine learning.
 * Applicants with a Bachelor's or Master's degree in Computer Science, Electrical Engineering, Data Science, Statistics, or other related STEM fields.
 * Strong programming skills, with a preference for Python.
-* Proficiency in English writing and speaking. (See [English proficiency exams](https://www.uab.edu/gradadmissions/apply/international-applicants))
+* Proficiency in English writing and speaking. (See [English proficiency exams](https://www.uab.edu/gradadmissions/apply/international-applicants){:target="_blank"})
 * Demonstrated perseverance and responsibility: Ability to remain resilient through research challenges; Good communication skills: Be able to maintain regular and clear communication with the advisor about any research difficulties or questions.
 * Prior research experience is advantageous but not mandatory.
 
@@ -34,4 +34,4 @@ Xi Li is currently a PhD candidate in the Department of Computer Science and Eng
 ## Join us
 * Complete the [UAB online application](https://cloud.reach.uab.edu/graduate-application){:target="_blank"} (not required for interns); 
 * Complete the required [application form](https://docs.google.com/forms/d/e/1FAIpQLSfGtj94hbRxiWA-txzr-3LTNeGBt3xZOkX3vlwXLwT9AiCCTA/viewform?usp=sf_link){:target="_blank"}; 
-* Send [an email](mailto:xili.cs.psu@gmail.com) to me with your resume and transcripts.
+* Send [an email](mailto:xili.recruitment@gmail.com) with the subject "[PhD/Research Intern Application]" including your resume and transcripts.
