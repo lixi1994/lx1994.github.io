@@ -9,6 +9,7 @@ date: 2024-02-21  # Also make sure the date format is correct
 venue: 'The 38th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)'
 paperurl: '/files/2024_AAAI.pdf'
 posterlink: '/files/AAAI24_poster.pdf'
+codelink: 'https://github.com/lixi1994/TDBA-VAR'
 citation: 'Xi Li, Songhe Wang, Ruiquan Huang, Mahanth Gowda, George Kesidis. (2024). "Temporal-Distributed Backdoor Attack Against Video Based Action Recognition." <i>AAAI</i>.'
 header:
   teaser: "2024_AAAI.png"
