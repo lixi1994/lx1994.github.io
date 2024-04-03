@@ -9,8 +9,9 @@ author_profile: true
 
 她的研究兴趣包括<strong>trustworthy AI</strong>和<strong>adversarial machine learning</strong>。目前，她正致力于加强robustness of foundation models (e.g., large language models) integrated machine learning systems。此外，她正在扩展她的研究领域到responsibility in machine learning，包括:
 * Robustness of large language models
-* Equitable participation and collaborative learning in foundation model integrated machine learning frameworks.
-* Robustness and fairness in multi-agent systems
+<!-- * Equitable participation and collaborative learning in foundation model integrated machine learning frameworks. -->
+* Robustness and fairness in multi-agent systems (collaborative AI)
+* Trustworthy AI + X (Applications): Cybersecurity, Healthcare
 
 Xi Li (李溪)目前就读于宾夕法尼亚州立大学计算机科学与工程系，将于7月博士毕业。在她的博士学习期间，她的论文被AAAI、ICCV、ICASSP、TKDE等会议和期刊接收。她于2018年获得宾州州立大学计算机科学与工程系的硕士学位，2016年获得中国东南大学（南京）信息工程系的工学学士学位。
 

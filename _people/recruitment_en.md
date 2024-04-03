@@ -8,8 +8,9 @@ author_profile: true
 [Xi Li](https://lixi1994.github.io/) will join the [Department of Computer Science at the University of Alabama at Birmingham (UAB)](https://www.uab.edu/cas/computerscience/){:target="_blank"} as an Assistant Professor. She aims to recruit <strong>1-2 PhD students for Spring or Fall 2025</strong>, in addition to a few <strong>interns</strong> (either remote or on-site).
 Her research interests include <strong>trustworthy AI</strong> and <strong>adversarial machine learning</strong>. She is currently working on enhancing the robustness of foundation models (e.g., large language models) integrated machine learning systems. Additionally, she is expanding her research to encompass aspects of responsibility in machine learning, including:
 * Robustness of large language models
-* Equitable participation and collaborative learning in foundation model integrated machine learning frameworks
-* Robustness and fairness in multi-agent systems
+<!-- * Equitable participation and collaborative learning in foundation model integrated machine learning frameworks. -->
+* Robustness and fairness in multi-agent systems (collaborative AI)
+* Trustworthy AI + X (Applications): Cybersecurity, Healthcare
 
 Xi Li is currently a PhD candidate in the Department of Computer Science and Engineering at Pennsylvania State University, expecting to graduate in July. Throughout her PhD studies, she has had papers accepted at conferences such as AAAI, ICCV, and ICASSP, and in the journal TKDE. She received her M.S. degree from the Department of Computer Science and Engineering at Penn State University in 2018 and her B.E. degree from the Department of Electrical Engineering at Southeast University (Nanjing, China) in 2016.
 
