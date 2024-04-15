@@ -37,10 +37,10 @@ My research interests include <strong>trustworthy AI</strong> and <strong>advers
 ![My Research Journey in Adversarial Machine Learning](/images/past_work.png)
 > *My Research Journey in Adversarial Machine Learning*
 
-My research vision is centered on developing trustworthy and reliable AI systems, aiming to support the advancement of technology and solve social challenges. I am keen to broaden my research scope to encompass the concept of <strong>responsibility</strong> in machine learning, focusing on areas such as <strong>robustness, fairness, and privacy</strong>. Recently, I'm exploring the following research topics:
+My research vision is centered on developing trustworthy and reliable AI systems, aiming to support the advancement of technology and solve social challenges. I am keen to broaden my research scope to encompass the concept of <strong>responsibility</strong> in machine learning, focusing on areas such as <strong>robustness, fairness, and interpritability</strong>. Recently, I'm exploring the following research topics:
 * Robustness of large language models
 <!-- * Equitable participation and collaborative learning in foundation model integrated machine learning frameworks. -->
-* Robustness and fairness in multi-agent systems (collaborative AI)
+* Responsibility (such as robustness and fairness) in multi-agent systems (collaborative AI)
 * Trustworthy AI + X (Applications): Cybersecurity, Healthcare
 
 ![My Future Research Plan in Trustworthy AI](/images/future_research_complete.png)

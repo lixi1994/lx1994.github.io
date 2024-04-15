@@ -7,10 +7,9 @@ author_profile: true
 
 [Xi Li (李溪)](https://lixi1994.github.io/) 将加入阿拉巴马大学伯明翰分校计算机科学系，担任助理教授一职。她计划在2025年春季或秋季招收<strong>1-2名博士研究生</strong>，并且招聘几名<strong>实习生</strong>（远程或线下）。
 
-她的研究兴趣包括<strong>trustworthy AI</strong>和<strong>adversarial machine learning</strong>。目前，她正致力于加强robustness of foundation models (e.g., large language models) integrated machine learning systems。此外，她正在扩展她的研究领域到responsibility in machine learning，包括:
+她的研究兴趣包括<strong>trustworthy AI</strong>和<strong>adversarial machine learning</strong>。目前，她正在扩展她的研究领域到responsibility in machine learning，包括:
 * Robustness of large language models
-<!-- * Equitable participation and collaborative learning in foundation model integrated machine learning frameworks. -->
-* Robustness and fairness in multi-agent systems (collaborative AI)
+* Responsibility (such as robustness and fairness) in multi-agent systems (collaborative AI)
 * Trustworthy AI + X (Applications): Cybersecurity, Healthcare
 
 Xi Li (李溪)目前就读于宾夕法尼亚州立大学计算机科学与工程系，将于7月博士毕业。在她的博士学习期间，她的论文被AAAI、ICCV、ICASSP、TKDE等会议和期刊接收。她于2018年获得宾州州立大学计算机科学与工程系的硕士学位，2016年获得中国东南大学（南京）信息工程系的工学学士学位。
