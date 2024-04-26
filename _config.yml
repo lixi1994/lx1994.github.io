@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/lixi1994"
+  github           : "lixi1994"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -217,6 +217,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   people:
+    output: true
+    permalink: /:collection/:path/
+  explorations:
     output: true
     permalink: /:collection/:path/
 
