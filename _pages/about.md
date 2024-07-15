@@ -61,6 +61,7 @@ Read my full [Research Statement](/files/Research_Statement.pdf) and [Teaching S
 <div style="height: 300px; overflow-y: scroll;">
   <ul>
   	<li>2024-05-28: I joined the Meta Content Understanding team as an MLE intern, focusing on early fusion architecture for multi-modal understanding. </li>
+    <li>2024-05-03: I passed my Ph.D. dissertation defense. </li>
     <li>2024-03-15: I'll be joining the department of computer science at UAB as an assistant professor in fall 2024. </li>
     <li>2024-01-30: Our paper is accepted to TKDE: "BIC-based Mixture Model Defense against Data Poisoning Attacks on Classifiers: A Comprehensive Study".</li>
     <li>2024-01-27: Our paper is accepted to PAKDD 2024: "Unveiling Backdoor Risks Brought by Foundation Models in Heterogeneous Federated Learning".</li>
@@ -94,6 +95,7 @@ Read my full [Research Statement](/files/Research_Statement.pdf) and [Teaching S
     <li>
         <strong>Conference Reviewer</strong>
         <ul>
+            <li>Conference on Neural Information Processing Systems (NeurIPS), 2024</li>
             <li>Conference on Language Modeling (COLM), 2024</li>
             <li>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022-2024</li>
             <li>SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023, 2024</li>
